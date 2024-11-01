@@ -1,0 +1,4 @@
+Pillow==10.4.0
+bitarray==2.9.2
+click==8.1.7
+pydub==0.25.1
